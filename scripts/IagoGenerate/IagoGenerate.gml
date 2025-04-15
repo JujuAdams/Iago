@@ -12,7 +12,7 @@
 function IagoGenerate(_id, _data, _allPropertiesRequired = true, _title = undefined, _description = undefined)
 {
     var _root = __IagoGenerateInner(_data, _allPropertiesRequired, true);
-    _root[$ "$schema"] = "https://json-schema.org/draft/2020-12/schema";
+    _root[$ "$schema"] = IAGO_TARGET_VERSION;
     _root[$ "$id"    ] = _id;
     
     if (is_string(_title))

@@ -3,6 +3,8 @@
 /// Adds a schema to the library in global scope. This will convert `$ref` links to schemas when
 /// testing data.
 /// 
+/// N.B. Iago does not yet support bundling.
+/// 
 /// @param schema
 
 function IagoAddID(_schema)
@@ -19,6 +21,8 @@ function IagoAddID(_schema)
     {
         __IagoError("Iago has no `$id` property");
     }
+    
+    //TODO - Support bundling
     
     _idToIagoDict[$ _id] = _schema;
 }
