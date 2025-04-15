@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[
+    {"name":"(System)","order":5,"path":"folders/Iago/(System).yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oTestBasics","order":6,"path":"objects/oTestBasics/oTestBasics.yy",},
+    {"name":"oTestRefs","order":7,"path":"objects/oTestRefs/oTestRefs.yy",},
+    {"name":"rMain","order":8,"path":"rooms/rMain/rMain.yy",},
+    {"name":"__IagoError","order":1,"path":"scripts/__IagoError/__IagoError.yy",},
+    {"name":"__IagoTrace","order":2,"path":"scripts/__IagoTrace/__IagoTrace.yy",},
+    {"name":"IagoAddID","order":3,"path":"scripts/IagoAddID/IagoAddID.yy",},
+    {"name":"IagoAddInstanceOf","order":4,"path":"scripts/IagoAddInstanceOf/IagoAddInstanceOf.yy",},
+    {"name":"IagoGenerate","order":2,"path":"scripts/IagoGenerate/IagoGenerate.yy",},
+    {"name":"IagoTest","order":1,"path":"scripts/IagoTest/IagoTest.yy",},
+  ],
+}

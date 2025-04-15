@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__IagoSystem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__IagoSystem",
+  "parent":{
+    "name":"(System)",
+    "path":"folders/Iago/(System).yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"IagoAddID",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"IagoAddID",
+  "parent":{
+    "name":"Iago",
+    "path":"folders/Iago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
